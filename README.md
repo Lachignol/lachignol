@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **finding a work-study placement**
 
-- 👨‍💻 All of my projects are available [on github](on github)
+- 👨‍💻 All of my projects are available [on github]
 
 - 📫 How to reach me **scordilisalexandre7@gmail.com**
 
