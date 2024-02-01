@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for help with **finding a work-study placement**
 
-- 👨‍💻 All of my projects are available [on github]
+- 👨‍💻 All of my projects are available on github
 
 - 📫 How to reach me **scordilisalexandre7@gmail.com**
 
-- 📄 Know about my experiences [former IT operations pilot](former IT operations pilot)
+- 📄 Know about my experiences former IT operations pilot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
