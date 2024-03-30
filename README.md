@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Scordilis Alexandre</h1>
-<h3 align="center">apprentice full stack developer</h3>
+<h3 align="center">Apprentice full stack developer</h3>
 
 - 🔭 I’m currently working on **mobile application**
 
