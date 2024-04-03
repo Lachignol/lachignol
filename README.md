@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Scordilis Alexandre</h1>
+
+![image](https://github.com/Lachignol/lachignol/assets/110435478/914a0252-07a5-472a-9653-55db78f63da9)
+
+
+
 <h3 align="center">Apprentice full stack developer</h3>
 
 - 🔭 I’m currently working on **mobile application**
