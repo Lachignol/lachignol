@@ -7,19 +7,20 @@
 
 
 
-<h3 align="center">Apprentice full stack developer</h3>
+<h3 align="center">Développeur web/app full-stack junior en quête d'alternance !</h3>
 
-- 🔭 I’m currently working on **mobile application**
+- 🔭 Je travaille actuellement sur une **Application mobile**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 Je me forme en ce moment sur **Golang**
 
-- 🤝 I’m looking for help with **finding a work-study placement**
+- 🤝 Je recherche **une alternance** d'un an, au rythme de 4j en entreprise et 1j à l'école.
+  
+- 🙋‍♂️ Je suis immédiatement disponible !
 
-- 👨‍💻 All of my projects are available on github
+- 👨‍💻 Tous mes projets sont disponibles sur GitHub.
 
-- 📫 How to reach me **scordilisalexandre7@gmail.com**
+- 📫 Contactez moi par mail : **scordilisalexandre7@gmail.com**
 
-- 📄 Know about my experiences former IT operations pilot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
