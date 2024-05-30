@@ -8,7 +8,7 @@
 
 
 <h3 align="center">Développeur web/app full-stack junior en quête d'alternance !</h3>
-<h4 align="center">My portfolio: https://portfolio-scordilis-alexandre.vercel.app/ </h4>
+<h4 align="center">Mon portfolio: https://portfolio-scordilis-alexandre.vercel.app/ </h4>
 
 - 🔭 Je travaille actuellement sur une **Application mobile**
 
