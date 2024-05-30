@@ -3,11 +3,12 @@
 ![image](https://github.com/Lachignol/lachignol/assets/110435478/914a0252-07a5-472a-9653-55db78f63da9)
 
 
-<h3 align="center">My portfolio: https://portfolio-scordilis-alexandre.vercel.app/ </h3>
+
 
 
 
 <h3 align="center">Développeur web/app full-stack junior en quête d'alternance !</h3>
+<h4 align="center">My portfolio: https://portfolio-scordilis-alexandre.vercel.app/ </h4>
 
 - 🔭 Je travaille actuellement sur une **Application mobile**
 
