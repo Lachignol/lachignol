@@ -11,7 +11,7 @@
 <h4 align="center">Mon portfolio: https://portfolio-scordilis-alexandre.vercel.app/ </h4>
 
 <p align="center">
-- 👨‍💻 Tous mes projets sont disponibles sur GitHub.
+- 👨‍💻 Tous mes projets sont disponibles sur GitHub 👨‍💻 -
 </p>
 
 
