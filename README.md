@@ -2,10 +2,6 @@
 
 <h4>Mon portfolio: https://portfolio.lachignol.com </h4>
 <h4>Mon blog: https://blog.lachignol.com </h4>
-
-
-
-
 <a href="https://linkedin.com/in/alexandre-scordilis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alexandre-scordilis" height="30" width="40" /></a>
 
 
