@@ -1,15 +1,11 @@
-<h1 align="center">Bienvenue </h1>
+<h1 align="center"> Concepteur développeur d'application </h1>
 
-<h3> Concepteur développeur d'application.</h3>
 <h4>Mon portfolio: https://portfolio.lachignol.com </h4>
-
-<p>
-Tous mes projets sont disponibles sur GitHub 👨‍💻 -
-</p>
+<h4>Mon blog: https://blog.lachignol.com </h4>
 
 
 
-<h3 >Connect with me:</h3>
+
 <a href="https://linkedin.com/in/alexandre-scordilis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alexandre-scordilis" height="30" width="40" /></a>
 
 
