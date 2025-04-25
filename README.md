@@ -1,12 +1,5 @@
 <h1 align="center">Bienvenue sur la page GitHub de Lachignol 👋  </h1>
 
-![image](https://github.com/Lachignol/lachignol/assets/110435478/914a0252-07a5-472a-9653-55db78f63da9)
-
-
-
-
-
-
 <h3 align="center"> Concepteur développeur d'application.</h3>
 <h4 align="center">Mon portfolio: https://portfolio.lachignol.com </h4>
 
